@@ -34,3 +34,4 @@ Tracking hands-on implementations from *Introduction to Statistical Learning wit
 
 - [ ] Logistic Regression (Chapter 4)
 - [ ] Polynomial Regression (as extension)
+- [ ] 🌦️ Simple Flutter Weather App *(to practice input, API calls, and UI layout)*
